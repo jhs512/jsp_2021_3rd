@@ -7,3 +7,4 @@ bin/
 .factorypath
 
 node_modules
+src/main/webapp/resource/common.css

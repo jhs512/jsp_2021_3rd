@@ -15,7 +15,7 @@ module.exports = {
 		themes: [
 			{
 				'mylight': {                       /* your theme name */
-					"primary": "#5b438f",
+					"primary": "#570df8",
 					"primary-focus": "#4506cb",
 					"primary-content": "#ffffff",
 					"secondary": "#f000b8",
